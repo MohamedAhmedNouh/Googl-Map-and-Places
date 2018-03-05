@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="google_api_key">AIzaSyAm6xZx57QvAbZw5xx4MiC2fOmp2_qh-TM</string>
+    <string name="app_name">SW2-1</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
